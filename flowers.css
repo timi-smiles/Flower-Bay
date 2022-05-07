@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#firstnav{
+    min-height: 13px;
+    margin-left: 150px;
+    background-color: transparent;
+    margin-top: 15px;
+}
+#firstnav a{
+    text-decoration: none;
+    color: #592600;
+    padding-left: 30px;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bolder;
+}
+#firstnav a:hover{
+    text-decoration: underline;
+}
+header{
+    background-color: #592600;
+    color: white;
+    min-height: 70px;
+    z-index: 10;
+
+}
+header ul{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    float: right;
+    margin-left: 600px;
+}
+header li{
+    display: inline;
+    float: left;
+    padding: 20px;
+}
+header li a{
+    color: white;
+    font-size: 17px;
+    /* font-weight: bolder; */
+    text-decoration: none;
+}
+
+
+.btn{
+    background-color: #592600!important;
+    color: white!important;
+}
+
+.container{
+    clear: both;
+}
+
+.cool{
+    color: #592600;
+    text-align: center;
+}
+
+.moves{
+    margin-top: 370px!important;
+}
+.fine{
+    color: black!important;
+    background-color: white!important;
+}
+
+.moves2{
+    margin-top: 50px!important;
+    margin-left: 50px!important;
+    padding-bottom: 20px!important;
+}
+
+.man{
+    padding: 50px!important;
+}
+
+.moves3{
+    margin-top: 100px!important;
+    margin-left: 50px!important;
+    padding-bottom: 20px!important;
+}
+
+.container3{
+    background-color: rgb(228, 220, 220);
+}
+
+.moves4{
+    margin-top: 150px!important;
+    margin-left: 100px!important;
+    padding-bottom: 40px!important;
+    color: #592600;
+}
+
+.moves5{
+    margin-top: 100px!important;
+    margin-left: 160px!important;
+    padding-bottom: 20px!important;
+}
+
+.round{
+    border-radius: 50%!important;
+    border: 1px solid transparent;
+}
+
+.container5{
+    background-color: #592600!important;
+    color: white!important;
+    padding: 30px!important;
+}
+
+.contacts a{
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+    padding-bottom: 20px;
+    font-style: italic;
+}
+.link li a{
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+}
+
+.input{
+    height: 60px;
+    width: 300px;
+    margin-bottom: 70px;
+}
+
+.position{
+    position: absolute;
+    margin-top: 9px;
+    margin-left: 110px;
+}
+
